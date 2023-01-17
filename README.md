@@ -1,5 +1,8 @@
 ### Hi there 👋
+I am a **React developer**, specializing in using **NextJS** and **TypeScript** to create high-performing and scalable applications. I leverage my experience in styling and presentation to compile my code with **Sass** and ensure a smooth user experience. Currently actively seeking a position as a developer, I am excited to join a dynamic team and contribute to challenging projects.
 
+### Bonjour 👋
+Je suis un **développeur React**, spécialisé dans l'utilisation de **NextJS** et **TypeScript** pour créer des applications performantes et évolutives. Je m'appuie sur mon expérience en matière de styles et de présentation pour compiler mon code avec **Sass** et garantir une expérience utilisateur fluide. Actuellement en recherche active d'un poste en tant que développeur, je suis enthousiaste à l'idée de rejoindre une équipe dynamique et de contribuer à des projets stimulants.
 <!--
 **HadrienSmet/HadrienSmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
